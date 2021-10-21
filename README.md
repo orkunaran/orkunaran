@@ -10,6 +10,11 @@ Here are some practical info about me :
 - 📫 How to reach me: orkunaran@gmail.com, [twitter.com/orc_arn](https://twitter.com/orc_arn), [LinkedIN](https://www.linkedin.com/in/orkun-tahir-aran-6a16aa60/), [Kaggle](https://www.kaggle.com/orkunaran)
 - :black_nib: You can find my published [research](https://scholar.google.com/citations?hl=tr&user=OCGpuhUAAAAJ&view_op=list_works); all statistical analysis conducted by me
 
+Currently Learning:
+- Math behind algorithms (see data science study notes repo)
+- MySQL 
+- Web Scrapping tools (Selenium, Beautiful Soup)
+
 - About me :
 
 A physical therapist who had his MSc and PhD in Occupational Therapy; and has been working in Hacettepe University since 2010 as a researcher. 
