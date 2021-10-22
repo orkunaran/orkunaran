@@ -19,7 +19,7 @@ In the course of being a researcher in health sciences, I gained experience cond
 Most of the analyses I conducted were A/B testing, correlation analyses, multivariant analysis, principal component analysis with SPSS and 
 structural equation modelling with AMOS. 
 
-The interest I grew in statistics, made me work on Python and data science basics. since 2017 I've been studying these concepts and analysing public data.  
+The interest I grew in statistics, made me work on Python and data science basics. since 2018 I've been studying these concepts and analysing public data.  
 Playing around data, creating hypotheses, testing these hypotheses and building a machine learning model, and learning new concepts each day is something that really makes me excited. 
 
 Therefore, I might say that I am a self-taught data science enthusiast, and willing to make a transition into the data science field.
