@@ -5,7 +5,7 @@
 Here I share my process, and practices in Data Science. If you like my work, please don't hesitate to share an upvote with me.
 
 Here are some practical info about me :
-- 🔭 I’m currently working on Global Burden of Disease 2019 [data](http://www.healthdata.org/gbd/2019), and web scrapping job listings on Rehabilitation Sciences
+- 🔭 I’m currently working on various [projects](www.github.com/orkunaran?tab=repositories)
 - 🌱 I’m currently learning MySQL, NLP, ML models from scratch,  Web Scrapping tools (Selenium, Beautiful Soup)  and keeping learning new things everday
 - 📫 How to reach me: orkunaran@gmail.com, [twitter.com/orc_arn](https://twitter.com/orc_arn), [LinkedIN](https://www.linkedin.com/in/orkun-tahir-aran-6a16aa60/), [Kaggle](https://www.kaggle.com/orkunaran)
 - :black_nib: You can find my published [research](https://scholar.google.com/citations?hl=tr&user=OCGpuhUAAAAJ&view_op=list_works); all statistical analysis conducted by me
