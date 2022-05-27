@@ -13,16 +13,11 @@ Here are some practical info about me :
 
 - About me :
 
-A physical therapist who had his MSc and PhD in Occupational Therapy; and has been working in Hacettepe University since 2010 as a researcher. 
+An assistant professor in health sciences with 12 years of research and analysis experience, willing to make a transition into the data analytics business as a Data Scientist.
 
-In the course of being a researcher in health sciences, I gained experience conducting my own research, and implement related statistics in SPSS. 
-Most of the analyses I conducted were A/B testing, correlation analyses, multivariant analysis, principal component analysis with SPSS and 
-structural equation modelling with AMOS. 
-
-The interest I grew in statistics, made me work on Python and data science basics. since 2018 I've been studying these concepts and analysing public data.  
+My work experience has given me a comprehensive knowledge of clinical trials, statistics, research methodologies, healthcare terminologies such as ICD-10, lecturing, communication with stakeholders - NGOs - governmental agencies and writing detailed reports. I am proficient in Python, MySQL, and SPSS to implement statistical analyses, machine learning models, data cleansing and EDA. 
+ 
 Playing around data, creating hypotheses, testing these hypotheses and building a machine learning model, and learning new concepts each day is something that really makes me excited. 
-
-Therefore, I might say that I am a self-taught data science enthusiast, and willing to make a transition into the data science field.
 
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=orkunaran)
